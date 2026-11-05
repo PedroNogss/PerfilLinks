@@ -33,5 +33,5 @@ O projeto é uma página web responsiva que serve como um cartão de visitas dig
 ---
 
 <p align="center">
-  Feito com Patriotismo pelo <a href="https://www.instagram.com/vtx0123/" target="_blank">VituVTX</a>
+  Feito com Dedicação pelo <a href="https://www.instagram.com/pedronogss/" target="_blank">Pedro Nogs</a>
 </p>
