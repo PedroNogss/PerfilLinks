@@ -1,5 +1,7 @@
 <h1 align="center"> Pedro Nogs - Agregador de Links 🇧🇷 </h1>
-
+<p align="center">
+  <img src="./assets/previa" alt="Demonstração do Projeto" width="100%">
+</p>
 <p align="center">
   Um projeto de agregação de links (estilo Linktree / DevLinks) com alternância de tema (Light / Dark mode), desenvolvido para reunir os links e redes sociais de Pedro Nogueira Saldanha.
 </p>
